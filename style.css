@@ -3,7 +3,9 @@
 img {
   align-self: center;
 }
-
+a{
+  align-self:center;
+}
 
 
 
@@ -24,26 +26,20 @@ h1 {
   font-family: "SF Distant Galaxy";
   color: #ecf029
 }
-
-.whole{
-  margin:0 auto;
+a{
+  color: #ecf029;
 }
-.ti{
+nav{
   display: flex;
-justify-content: center;
-}
-.freak{
-  display:flex;
   flex-direction: column;
 }
-.bob{
+
+.center{
   display:flex;
+  justify-content: center;
   flex-direction: column;
 }
-.goon{
-  display:flex;
-  flex-direction: column;
-}
+
 
 
 /* computer */
